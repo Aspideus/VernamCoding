@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553593755 source:c:\users\aspide\desktop\vernam\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+
